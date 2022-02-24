@@ -1,0 +1,31 @@
+arenaname:
+  world: world_name
+  floor: -23
+  floormaterials:
+    - SNOW_BLOCK
+    - SAND
+  spectator:
+    x: 1234
+    y: 3456
+    z: -4567
+    pitch: -25
+    yaw: 45
+  spawns:
+    spawn1:
+      x: -4
+      y: 5
+      z: -6
+      pitch: 8
+      yaw: 7
+    spawn2:
+      x: 9
+      y: -12
+      z: 13
+      pitch: 15
+      yaw: -14
+    spawn3:
+      x: -16
+      y: -17
+      z: 18
+      pitch: -21
+      yaw: 19
